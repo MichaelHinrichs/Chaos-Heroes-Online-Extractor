@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34407.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaos-Heros-Online-Extractor", "Chaos-Heros-Online-Extractor.csproj", "{76FF8A9F-135D-4B0E-8A5B-0BAE7F093812}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaos-Heroes-Online-Extractor", "Chaos-Heroes-Online-Extractor.csproj", "{76FF8A9F-135D-4B0E-8A5B-0BAE7F093812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

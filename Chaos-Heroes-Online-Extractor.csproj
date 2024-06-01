@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>Chaos_Heros_Online_Extractor</RootNamespace>
+    <RootNamespace>Chaos_Heroes_Online_Extractor</RootNamespace>
   </PropertyGroup>
 
 </Project>

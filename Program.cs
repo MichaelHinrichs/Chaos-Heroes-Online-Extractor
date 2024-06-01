@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace Chaos_Heros_Online_Extractor
+namespace Chaos_Heroes_Online_Extractor
 {
     class Program
     {
